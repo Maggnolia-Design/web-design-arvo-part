@@ -1,39 +1,40 @@
 @import url("http://fonts.googleapis.com/css?family=Playfair+Display&subset=latin,latin-ext");
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,latin-ext");
 
-############
-#  HEADER  #
-############
-
-header {
-   height: 550px;
-   width:100%;
-   background-color: #f9f4e8;
+/*main*/
+div+div {
+   margin:60px 15%;
 }
-
-h1 {
-   font-size: 65px;
-   font-family: 'Playfair Display', serif;
-   color: #2e130f;
-   padding: 180px 80px 20px 130px;
-   margin: 0;
-   border: 0;
-}
-
 
 p {
    font-family: 'Open Sans', serif;
 }
 
-
-
-div+div {
-   margin:60px 15%;
-}
-
 img {
    float: left;
    width: 400px;
-   margin-right: 10px;
+   padding: 60px;
+   margin-left: 60px;
 }
 
+/*header*/
+header {
+   height: 500px;
+   width:100%;
+   background-color: #f9f4e8;
+   color: #2e130f;
+}
+
+h1 {
+   font-size: 65px;
+   font-family: 'Playfair Display', serif;
+   padding: 180px 110px 20px 130px;
+   margin: 0;
+   border: 0;
+}
+
+header>p {
+   padding: 0 110px 130px 130px;
+   width: 700px;
+   font-size: 17px;
+}
