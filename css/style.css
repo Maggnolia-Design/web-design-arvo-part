@@ -1,5 +1,11 @@
-div {
+div+div {
    margin:60px 15%;
+}
+
+img {
+   float: left;
+   width: 400px;
+   margin-right: 10px;
 }
 
 h1 {
