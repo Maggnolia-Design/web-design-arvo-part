@@ -16,6 +16,10 @@ div>ol>li {
    padding-bottom:10px;
 }
 
+li li {
+   list-style-type: square;
+}
+
 img {
    float: left;
    width: 450px;
@@ -26,6 +30,7 @@ img {
 h2 {
    clear: both;
    padding-top: 90px;
+   font-family: 'Fairplay', serif;
 }
 
 /*header*/
