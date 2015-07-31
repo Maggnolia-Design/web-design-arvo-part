@@ -10,5 +10,9 @@ img {
 
 h1 {
    background: #2e130f;
+   font-size: 45px;
    color: #f9f4e8;
+   padding: 200px 80px 100px 80px;
+   margin: 0;
+   border: 0;
 }
