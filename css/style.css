@@ -12,6 +12,8 @@ p, ol {
    font-family: 'Open Sans', serif;
 }
 
+p {line-height: 26px}
+
 div>ol>li {
    padding-bottom:10px;
 }
@@ -30,7 +32,7 @@ img {
 h2 {
    clear: both;
    padding-top: 90px;
-   font-family: 'Fairplay', serif;
+   font-family: 'Fairplay', serif
 }
 
 /*header*/
@@ -55,4 +57,7 @@ header>p {
    font-size: 17px;
 }
 
+section {
+   padding: 25px
+}
 /*background color Reviews and Tripartite */
