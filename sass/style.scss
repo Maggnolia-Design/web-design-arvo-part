@@ -56,7 +56,7 @@ h2 {
 header {
    height: 600px;
    width:100%;
-   background-color: #f9f4e8;
+   background-image: url("../img/music-sheet.png");
    color: #2e130f;
 }
 
@@ -69,9 +69,13 @@ h1 {
 }
 
 header>p {
-   padding: 0 110px 130px 130px;
+   padding: 0 110px 0 130px;
    width: 700px;
    font-size: 19px;
+}
+
+header>p+p {
+   padding-bottom: 130px
 }
 
 section {
