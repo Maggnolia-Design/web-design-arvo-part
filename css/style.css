@@ -48,7 +48,7 @@ div > ul > li {
 }
 
 li {
-  font-family: 'Open Sans', serif;
+  font-family: 17px/29px 'Open Sans', serif;
 }
 li > ul {
   font: lighter 17px 'Open Sans', serif;
@@ -57,6 +57,10 @@ li > ul {
 ul {
   list-style: none;
   font: 17px/29px "Open Sans", serif;
+}
+
+ol {
+  font: lighter 17px/29px 'Open Sans', serif;
 }
 
 h2 {

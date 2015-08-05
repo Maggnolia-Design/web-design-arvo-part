@@ -51,7 +51,7 @@ div {
 }
 
 li {
-   font-family: 'Open Sans', serif;
+   font-family: 17px/29px 'Open Sans', serif;
    > ul {
       font: lighter 17px 'Open Sans', serif;
    }
@@ -61,6 +61,10 @@ li {
 ul{
    list-style: none;
    font: 17px/29px 'Open Sans', serif
+}
+
+ol {
+   font: lighter 17px/29px 'Open Sans', serif;
 }
 
 
@@ -77,5 +81,5 @@ h2 {
 section {
    padding: 0 40px;
    margin-bottom: 75px;
-   border-left: 5px solid #617c8a
+   border-left: 5px solid #617c8a;
 }
