@@ -8,6 +8,7 @@ img {
 }
 
 header {
+  color: #2e130f;
   height: 600px;
   width: 100%;
   background-image: url("../img/music-sheet.png");
